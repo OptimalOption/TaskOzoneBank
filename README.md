@@ -1,1 +1,1 @@
-# TaskOzoneBank
+# 1С / Go
